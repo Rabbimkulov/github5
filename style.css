@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+    display: flex;
+    height: 100vh;
+}
+.div {
+    margin: auto;
+    border: 0 solid;
+    background-color: white;
+    padding: 30px;
+    box-shadow: 10px 10px rgb(16, 212, 212);
+}
+.input {
+    padding: 4px;
+    width: 300px;
+    border: 1px solid lightgray;
+}
+.button {
+    padding: 10px;
+    width: 307px;
+    border: 1px solid tomato;
+    background-color: tomato;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.p {
+    border: 0 solid;
+    background-color: antiquewhite;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
